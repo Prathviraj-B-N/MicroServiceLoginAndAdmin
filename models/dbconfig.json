@@ -1,0 +1,13 @@
+{
+    "user" : "theja",
+    "password" : "theja",
+    "server" : "SAHYADRI-PC",
+    "database": "sahystream",
+    "options": {
+        "trustedConnection" : true,
+        "enableArithAort": true,
+        "instancename": "MSSQLSERVER",
+        "trustServerCertificate": true
+    },
+    "port":1433
+}
